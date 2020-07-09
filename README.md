@@ -1,5 +1,8 @@
 # 20-07-08 HTML Basics Graded Classwork Assignment
 
+## Score : 5/5
+Nice job! Tiger king is a super cool show.
+
 ## Objectives
 - HTML Structure
 - Attributes
